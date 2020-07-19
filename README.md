@@ -1,2 +1,2 @@
 # Product_Manager
-Second semester course
+Semester's course
